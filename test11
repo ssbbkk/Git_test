@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Welcome"
+for i in 1 2 3; do echo "$i ..."; echo "\n Go!!!";done
